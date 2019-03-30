@@ -14,6 +14,7 @@
 		C96AF964224EDBD8003800AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C96AF962224EDBD8003800AE /* LaunchScreen.storyboard */; };
 		C96AF96F224EDBD8003800AE /* Auto_Layout_AdvencedTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C96AF96E224EDBD8003800AE /* Auto_Layout_AdvencedTests.swift */; };
 		C96AF97A224EDBD9003800AE /* Auto_Layout_AdvencedUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C96AF979224EDBD9003800AE /* Auto_Layout_AdvencedUITests.swift */; };
+		C96AF988224EDC01003800AE /* extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C96AF987224EDC01003800AE /* extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C96AF975224EDBD9003800AE /* Auto Layout AdvencedUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Auto Layout AdvencedUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C96AF979224EDBD9003800AE /* Auto_Layout_AdvencedUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auto_Layout_AdvencedUITests.swift; sourceTree = "<group>"; };
 		C96AF97B224EDBD9003800AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C96AF987224EDC01003800AE /* extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				C96AF959224EDBD6003800AE /* AppDelegate.swift */,
 				C96AF95B224EDBD6003800AE /* ViewController.swift */,
+				C96AF987224EDC01003800AE /* extensions.swift */,
 				C96AF95D224EDBD6003800AE /* Main.storyboard */,
 				C96AF960224EDBD8003800AE /* Assets.xcassets */,
 				C96AF962224EDBD8003800AE /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				C96AF95C224EDBD6003800AE /* ViewController.swift in Sources */,
 				C96AF95A224EDBD6003800AE /* AppDelegate.swift in Sources */,
+				C96AF988224EDC01003800AE /* extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
